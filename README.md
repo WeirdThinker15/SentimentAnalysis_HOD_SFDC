@@ -17,7 +17,7 @@ Post-Deployment Steps
 
 Detailed Walkthrough
 --------------------
-The Blog Post at <> throws light on the POC in detail. 
+The Blog Post [here](https://medium.com/@weirdthinker15/sentiment-analysis-using-haven-on-demand-in-salesforce-e48453ae5436#.pijc7oxtj) throws light on the POC in detail. 
 
 
 
